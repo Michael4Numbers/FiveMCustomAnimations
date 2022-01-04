@@ -3,8 +3,8 @@ Various Animations created either from scratch or ported from other pieces of me
 
 YCD Dictionary File Names:
 
-- default@dance@dictionary, default_dance
+- default@dance@dictionary, default_dance (Rights go to Epic Games)
 
-- dab@dictionary, dabmotion
+- dab@dictionary, dabmotion (Original)
 
-- sheesh@dictionary, sheesh
+- sheesh@dictionary, sheesh (Original)
