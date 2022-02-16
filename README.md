@@ -8,3 +8,5 @@ YCD Dictionary File Names:
 - dab@dictionary, dabmotion (Original)
 
 - sheesh@dictionary, sheesh (Original)
+
+- orange@justice@directory, orange_justice (Rights go to Epic Games)
