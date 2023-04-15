@@ -10,3 +10,5 @@ YCD Dictionary File Names:
 - sheesh@dictionary, sheesh (Original)
 
 - orange@justice@directory, orange_justice (Rights go to Epic Games)
+
+- m4n@emotes, griddy_clip (Rights go to Epic Games)
